@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://reaperscripts.com/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AgreedSoldier/lightscripts/main/loader.lua"))()
